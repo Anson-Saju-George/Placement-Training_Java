@@ -1,4 +1,4 @@
 import os
 
-dir = os.listdir(".")
+dir = os.listdir("./_02_Basic_DSA")
 print(dir)
