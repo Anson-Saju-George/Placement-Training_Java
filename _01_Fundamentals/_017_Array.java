@@ -1,7 +1,7 @@
 //package Fundamentals;
 import java.util.Scanner;
 
-public class _003_Array {
+public class _017_Array {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

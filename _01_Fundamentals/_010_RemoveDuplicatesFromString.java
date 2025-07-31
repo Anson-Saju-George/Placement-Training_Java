@@ -1,7 +1,7 @@
 //package Fundamentals;
 import java.util.Scanner;
 
-class _008_RemoveDuplicatesFromString {
+class _010_RemoveDuplicatesFromString {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

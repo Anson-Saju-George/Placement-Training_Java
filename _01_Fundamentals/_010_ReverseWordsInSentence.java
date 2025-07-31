@@ -1,7 +1,7 @@
 //package Fundamentals;
 import java.util.Scanner;
 
-class _006_ReverseWords {
+class _010_ReverseWordsInSentence {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
