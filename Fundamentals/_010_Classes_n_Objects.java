@@ -3,10 +3,9 @@ class Main
 {
     public void fun()
     {
-        System.out.println("fun");
+        System.out.println("It's fun!");
 
     }
-
 
 
     public static void main(String[] args)

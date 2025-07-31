@@ -1,5 +1,5 @@
 //package Fundamentals;
-class _002_Main
+class _010_Ternery_and_Functions
 {
     public void fun()
     {
@@ -10,7 +10,7 @@ class _002_Main
 
     public static void main(String[] args)
     {
-        _002_Main ob = new _002_Main();
+        _010_Ternery_and_Functions ob = new _010_Ternery_and_Functions();
         System.out.println("Hello World!");
         ob.fun();
     }

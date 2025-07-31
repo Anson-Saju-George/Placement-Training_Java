@@ -1,6 +1,6 @@
 // package Fundamentals;
 import java.util.*;
-public class _003_Array_copy
+public class _018_Array_Insertion
 {
 	public static void main(String[] args) 
 	{
