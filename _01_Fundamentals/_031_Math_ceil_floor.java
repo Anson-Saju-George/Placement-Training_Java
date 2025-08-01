@@ -9,8 +9,6 @@ public class _031_Math_ceil_floor {
         System.out.println((int)num);
         System.out.println((int)Math.ceil(num));
         System.out.println((int)Math.floor(num));
-
-        
         
     }
 }
