@@ -1,4 +1,4 @@
-package Course;
+package _00_Programming;
 
 public class Variables_N_Data_Types {
     public static void main(String[] args) {

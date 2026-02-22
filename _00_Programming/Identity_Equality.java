@@ -1,4 +1,4 @@
-package Course;
+package _00_Programming;
 
 public class Identity_Equality {
     int a;
